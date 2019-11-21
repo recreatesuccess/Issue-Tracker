@@ -6,4 +6,4 @@ This one page application has a clean design, with a focus on an enhanced user e
 
 A screenshot is shown below:
 
-![alt text](https://raw.githubusercontent.com/recreatesuccess/Issue-Tracker/master/img/IssueTrackerScreen.png
+![alt text](https://raw.githubusercontent.com/recreatesuccess/Issue-Tracker/master/img/IssueTrackerScreen.png)
